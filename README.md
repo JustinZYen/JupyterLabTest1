@@ -1,2 +1,3 @@
 # JupyterLabTest1
-testing features of jupyterlab
+Testing features of JupyterLab as part of an honors contract for PHY 112 with Carl Covatto.
+
